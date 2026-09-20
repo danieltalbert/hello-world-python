@@ -1,23 +1,19 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I am building a personal software portfolio to document the technologies I learn and the software I write along the way. This first program is the starting point: a minimal Python script that confirms I have a working development environment and that I can write, run, and publish code end to end.
 
-{Provide a description of your software}
+The software is a single Python script that prints the sentence "Hello World!" to the terminal.
 
-{Describe your purpose for creating this software.}
+I created it to demonstrate basic Python functionality, specifically producing text output in the terminal, and to establish the workflow I will repeat for every future project in this portfolio.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2Kh49uxdi4Q)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I wrote and ran the software in Visual Studio Code, using its integrated terminal to execute the script. Version control is handled with Git, and the repository is hosted publicly on GitHub.
 
-{Describe the programming language that you used}
+The program is written in Python, using only the built-in `print()` function with no external libraries.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+I did not need any outside references for this program. Future entries in this portfolio will list the resources I relied on.
